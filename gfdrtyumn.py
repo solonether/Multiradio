@@ -1,5 +1,3 @@
-#/bin/python
-
 import PySimpleGUI as sg
 import vlc
 
